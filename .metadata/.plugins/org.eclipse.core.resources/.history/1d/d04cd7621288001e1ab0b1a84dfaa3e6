@@ -1,0 +1,8 @@
+
+public class HelloF {
+	public static void main(String[] args) {
+		System.out.println("30 + 40 = ");
+		System.out.println("30 + 40 = " + 30 + 40);
+		// 30 + 40 = 70이라고 출력하고 싶으면?
+	}
+}
